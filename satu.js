@@ -4,4 +4,6 @@ var Andi ={
     job : 'PNS'
 }
 
-console.log(Andi)
+console.log(Andi.nama)
+console.log(Andi.usia)
+console.log(Andi.job)
